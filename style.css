@@ -491,6 +491,32 @@
     top: 0;
     background: #1e3551;
   } */
+
+  .skills-section {
+    padding: 20px;
+    /* background-color: #f8f8f8; */
+    border-radius: 10px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .skills-section h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .skills-list {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #444;
+    font-size: 16px;
+  }
+  
+  .skills-list li {
+    margin-bottom: 10px;
+  }
+  
   
   .skills-content .right .html::before {
     width: 100%;
