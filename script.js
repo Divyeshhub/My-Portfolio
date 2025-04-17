@@ -87,4 +87,7 @@ $(document).ready(function () {
     var a = document.createElement('a');
     a.href = mail;
     a.click();
+  
+
 };
+
